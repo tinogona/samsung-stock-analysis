@@ -88,3 +88,11 @@
 
 **괴리율은 절대적 매수 신호가 아니다.
 하지만 평균에서 크게 벗어났을 때는 무시하기 어려운 신호다.**
+
+---
+
+## 사용 라이브러리
+`pandas` `numpy` `matplotlib` `yfinance` `seaborn`
+
+## 분석 환경
+Google Colab / Python 3
